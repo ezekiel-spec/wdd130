@@ -114,11 +114,11 @@
   
   .image-gallery figure {
     margin: 10px;
-    width: calc(33.33% - 20px);
+    width: calc(25.33% - 20px);
   }
   
   .image-gallery img {
-    width: 100%;
+    width: 80%;
     height: auto;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
